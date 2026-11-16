@@ -118,7 +118,7 @@ See [Contributing](#contributing).
 
 --------------------
 
-## Software
+## Software AI
 
 ### Analytics
 
